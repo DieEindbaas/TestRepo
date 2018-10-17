@@ -8,6 +8,7 @@ namespace DictionaryTest
 {
     class DictionaryManager
     {
+        //adding note for testing purposes
         Dictionary<string, string> testDictionary = new Dictionary<string, string>();
 
         public void Add(string key, string value/*, Dictionary<string, string> dictionary*/)
